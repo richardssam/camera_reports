@@ -1,0 +1,8 @@
+
+*.log
+
+Filemaker_11_standalone/VES_Camera_Reports/VES_Camera_Reports.app/Contents/Resources/Dutch.lproj/FMStrs.dls
+
+Filemaker_11_standalone/VES_Camera_Reports/VES_Camera_Reports.app/Contents/Resources/English.lproj/FMStrs.dls
+
+*.dls
